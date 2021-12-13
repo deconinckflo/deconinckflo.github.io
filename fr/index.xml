@@ -7,14 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Deconinck Florian 2021</copyright>
-    <lastBuildDate>Fri, 30 Jul 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://foukette.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://foukette.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hamilton 100 wins</title>
+      <link>https://foukette.github.io/fr/blog/hamilton/</link>
+      <pubDate>Fri, 01 Oct 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://foukette.github.io/fr/blog/hamilton/</guid>
+      <description>Introduction Vainqueur dimanche 26 Septembre du Grand Prix de Russie à Sotchi, Lewis Hamilton est devenu le premier pilote à franchir la barre des 100 victoires en Grand Prix, loin devant les autres grands noms de son sport.</description>
+    </item>
+    
     <item>
       <title>Maven Olympics Challenge</title>
       <link>https://foukette.github.io/fr/blog/maven-olympics-challenge/</link>
       <pubDate>Fri, 30 Jul 2021 12:52:36 +0600</pubDate>
       
       <guid>https://foukette.github.io/fr/blog/maven-olympics-challenge/</guid>
-      <description>Maven challenge</description>
+      <description>Introduction Maven Analytics est un site d&amp;rsquo;apprentissage en ligne permettant de développer les compétences les plus recherchées en matière d&amp;rsquo;analyse de données.</description>
     </item>
     
     <item>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://foukette.github.io/fr/blog/</loc>
-    <lastmod>2021-07-30T12:52:36+06:00</lastmod>
+    <lastmod>2021-10-01T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://foukette.github.io/fr/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://foukette.github.io/fr/blog/hamilton/</loc>
+    <lastmod>2021-10-01T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://foukette.github.io/blog/hamilton/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://foukette.github.io/fr/blog/hamilton/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://foukette.github.io/fr/</loc>
+    <lastmod>2021-10-01T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://foukette.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://foukette.github.io/fr/"
                 />
   </url>
   
@@ -29,21 +59,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://foukette.github.io/fr/blog/maven-olympics-challenge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://foukette.github.io/fr/</loc>
-    <lastmod>2021-07-30T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://foukette.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://foukette.github.io/fr/"
                 />
   </url>
   

@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://foukette.github.io/blog/hamilton/</loc>
+    <lastmod>2021-07-30T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://foukette.github.io/fr/blog/hamilton/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://foukette.github.io/blog/hamilton/"
+                />
+  </url>
+  
+  <url>
     <loc>https://foukette.github.io/blog/maven-olympics-challenge/</loc>
     <lastmod>2021-07-30T12:52:36+06:00</lastmod>
     <xhtml:link
