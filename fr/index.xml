@@ -9,7 +9,16 @@
     <copyright>Deconinck Florian 2021</copyright>
     <lastBuildDate>Fri, 01 Oct 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://foukette.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hamilton 100 wins</title>
+      <title>Cartographie de données NBA</title>
+      <link>https://foukette.github.io/fr/blog/qgis-basketball/</link>
+      <pubDate>Fri, 01 Oct 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://foukette.github.io/fr/blog/qgis-basketball/</guid>
+      <description>Introduction Lors de notre 5ème année d’étude à JUNIA ISEN Lille, J&amp;rsquo;ai eu la possibilité de choisir un module d’ouverture : système d’information géographique.</description>
+    </item>
+    
+    <item>
+      <title>Hamilton 100 victoires</title>
       <link>https://foukette.github.io/fr/blog/hamilton/</link>
       <pubDate>Fri, 01 Oct 2021 12:52:36 +0600</pubDate>
       
@@ -24,6 +33,15 @@
       
       <guid>https://foukette.github.io/fr/blog/maven-olympics-challenge/</guid>
       <description>Introduction Maven Analytics est un site d&amp;rsquo;apprentissage en ligne permettant de développer les compétences les plus recherchées en matière d&amp;rsquo;analyse de données.</description>
+    </item>
+    
+    <item>
+      <title>Cancer des ovaires</title>
+      <link>https://foukette.github.io/fr/blog/ovarian-cancer/</link>
+      <pubDate>Tue, 13 Apr 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://foukette.github.io/fr/blog/ovarian-cancer/</guid>
+      <description>Introduction Le cancer de l&amp;rsquo;ovaire est l&amp;rsquo;un des types de cancer les plus courants chez la femme.</description>
     </item>
     
     <item>
