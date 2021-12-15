@@ -2,11 +2,11 @@
 <html lang="en-us">
 <head>
 	<meta charset="utf-8">
-	<title>Masked recognition AI</title>
+	<title>NBA Data Mapping</title>
 
 	<!-- mobile responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="description" content="Make a Deep Learning model to detect whether a person is wearing his mask well or not">
+	<meta name="description" content="Representation of NBA data using QGIS software">
 	
 	<meta name="author" content="Themefisher">
 	<meta name="generator" content="Hugo 0.76.4" />
@@ -125,7 +125,7 @@
 					
 					
 					
-					<option id="fr" value="https://deconinckflo.github.io/fr/blog/ia-covid/">Fr</option>
+					<option id="fr" value="https://deconinckflo.github.io/fr/blog/qgis-basketball/">Fr</option>
 					
 					
 					
@@ -139,7 +139,7 @@
 					
 					
 					
-					<option id="en" value="https://deconinckflo.github.io/blog/ia-covid/" selected>En
+					<option id="en" value="https://deconinckflo.github.io/blog/qgis-basketball/" selected>En
 					</option>
 					
 					
@@ -157,39 +157,29 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
-        <h1>Masked recognition AI</h1>
+        <h1>NBA Data Mapping</h1>
         <ul class="list-inline mb-50">
           <li class="list-inline-item"><a href="/author/deconinck-florian/">Deconinck Florian</a></li>
-          <li class="list-inline-item">Saturday, Oct 17, 2020</li>
+          <li class="list-inline-item">Friday, Nov 12, 2021</li>
         </ul>
-        <img class="img-fluid mb-50 lozad" data-src="https://deconinckflo.github.io/images/blog/mask.jpg" alt="blog-image">
+        <img class="img-fluid mb-50 lozad" data-src="https://deconinckflo.github.io/images/blog/qgis.png" alt="blog-image">
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
           <h2 id="introduction">Introduction</h2>
-<p>The health crisis of COVID-19 (known as Coronavirus) striking the whole world, forced everybody to wear a mask. Besides governments efforts, the virus is still spreading. Indeed, some people don&rsquo;t wear their mask properly. In this project, we propose to solve this problem with Deep Learning. Our algorithm detects if someone wears or not a mask and if yes, if it is well worn.</p>
-<p>In this Master I project, we are a team of 5 students, and we are challenged to program an AI that will understand thanks to a photo if a human is wearing a safety mask or not, but also if this safety mask is well-worn.</p>
-<p>This project helps me discover Neural Networks and Computer Vision.</p>
-<h2 id="dataset">Dataset</h2>
-<p>We use a dataset with images with correctly masked faces and incorrectly masked faces. We have balance our dataset and have 3 classes to predict:</p>
-<ul>
-<li>unmasked faces</li>
-<li>people wearing the mask incorrectly</li>
-<li>people wearing the mask correctly</li>
-</ul>
-<h2 id="method">Method</h2>
-<p>We chose to build our model with a CNN (Convolutional Neural Network). We use only one neural network to predict the different classes and won&rsquo;t divide the problem into two parts (mask or not mask followed by if the mask is correctly worn). We try different transfer learning models like ResNet architectures or VGG16/19.</p>
-<h2 id="results">Results</h2>
-<ul>
-<li>ResNet50 : Test accuracy : 92.03 % and a test loss : 0.293.</li>
-<li>ResNet101 : Test accuracy : 93.5 % and a test loss : 0.221.</li>
-<li>VGG16 : Test accuracy : 98.9 % and a test loss : 0.0331.</li>
-<li>VGG19 : Test accuracy : 89.0 % and a test loss : 0.27.</li>
-</ul>
-<h2 id="implementation-with-a-webcam">Implementation with a webcam</h2>
-<p>After obtaining a very satisfactory and very encouraging model, we decided to implement it on a webcam in order to test the prediction in real time. To do this, we used the OpenCV Library and its Haarcascade models to perform face detection. Once a face was detected, we cut out a new image of this face which we then gave as input to our model to make the prediction.</p>
-<p>Here is a video of our AI implemented on the webcams of our computers.
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6769546094398455809/">Watch the demo</a></p>
+<p>During our 5th year of study at JUNIA ISEN Lille, I had the opportunity to choose an openness module: geographic information system. In this module, I learned the importance of good communication of information. Sharing data using maps and other representations is an efficient and accessible means of transmission.</p>
+<p>To finalize this module, we had to produce, in groups of 2, a map with the data of our choice. Having a friend who loves basketball just like me, we chose to take data from the NBA to represent the evolution of player shooting positions and the origins of American players.</p>
+<h2 id="data">Data</h2>
+<p>First for the map showing the shooting zones in the NBA, we could not find any data files on the Internet. So we made our own Python program to collect the data and then store it in a csv file. To retrieve the data, we used the public API on the <a href="www.nba.com">NBA</a> official website: nba_api. We have collected data for all years since 2004 and for each of the 30 teams in the league. Finally, we have, thanks to another python script, processed the data in order to keep only the useful ones.</p>
+<p>For the second performance, we managed to find a file containing all the data we needed.</p>
+<h2 id="realization-in-qgis">Realization in QGIS</h2>
+<p>Here is the distribution of shots in the NBA during the 2004-2005 season as well as the 2019-2020 season:</p>
+<p><img src="https://deconinckflo.github.io/images/blog/tirs2004.png#thumbnail" alt="shoots2004-2005">
+<img src="https://deconinckflo.github.io/images/blog/tirs2020.png#thumbnail" alt="shoots2019-2020"></p>
+<p>Once each image of each season has been exported from the QGIS software, we put them all together to make GIF.
+We can therefore progressively observe a real evolution of shooting positions in the NBA with an increase in the number of 3-point shootings.</p>
+<p>Here is the map showing the origin of American players playing in NBA and ABA previously:
+<img src="https://deconinckflo.github.io/images/blog/naissance-nba.png#thumbnail" alt="birth of American NBA players"></p>
 
         </div>
         
