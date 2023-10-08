@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Deconinck Florian 2021</copyright>
-    <lastBuildDate>Tue, 03 May 2022 20:25:36 +0600</lastBuildDate><atom:link href="https://deconinckflo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 20:25:36 +0600</lastBuildDate><atom:link href="https://deconinckflo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven Tour de France Challenge</title>
+      <link>https://deconinckflo.github.io/blog/tour-de-france-2023/</link>
+      <pubDate>Thu, 27 Jul 2023 20:25:36 +0600</pubDate>
+      
+      <guid>https://deconinckflo.github.io/blog/tour-de-france-2023/</guid>
+      <description>Introduction As part of the Maven Tour de France challenge, we have to put ourselves in the shoes of a data visualization expert working for Amaury Sport Organisation, the company that organizes the annual Tour de France cycling race.</description>
+    </item>
+    
     <item>
       <title>MVP race 2022</title>
       <link>https://deconinckflo.github.io/blog/mvp-race-2022/</link>

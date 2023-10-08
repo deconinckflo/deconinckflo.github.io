@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Portfolio</title>
-    <link>https://deconinckflo.github.io/blog/</link>
-    <description>Recent content in Blogs on Portfolio</description>
+    <title>Data visualisation on Portfolio</title>
+    <link>https://deconinckflo.github.io/categories/data-visualisation/</link>
+    <description>Recent content in Data visualisation on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Deconinck Florian 2021</copyright>
-    <lastBuildDate>Thu, 27 Jul 2023 20:25:36 +0600</lastBuildDate><atom:link href="https://deconinckflo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Maven Tour de France Challenge</title>
-      <link>https://deconinckflo.github.io/blog/tour-de-france-2023/</link>
-      <pubDate>Thu, 27 Jul 2023 20:25:36 +0600</pubDate>
-      
-      <guid>https://deconinckflo.github.io/blog/tour-de-france-2023/</guid>
-      <description>Introduction As part of the Maven Tour de France challenge, we have to put ourselves in the shoes of a data visualization expert working for Amaury Sport Organisation, the company that organizes the annual Tour de France cycling race.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 03 May 2022 20:25:36 +0600</lastBuildDate><atom:link href="https://deconinckflo.github.io/categories/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MVP race 2022</title>
       <link>https://deconinckflo.github.io/blog/mvp-race-2022/</link>
@@ -60,15 +51,6 @@
       
       <guid>https://deconinckflo.github.io/blog/ovarian-cancer/</guid>
       <description>Introduction Ovarian cancer is one of the most common types of cancer in women. The symptoms are not always easy to recognise because they&amp;rsquo;re similar to those of some more common conditions.</description>
-    </item>
-    
-    <item>
-      <title>Masked recognition AI</title>
-      <link>https://deconinckflo.github.io/blog/ia-covid/</link>
-      <pubDate>Sat, 17 Oct 2020 12:52:36 +0600</pubDate>
-      
-      <guid>https://deconinckflo.github.io/blog/ia-covid/</guid>
-      <description>Introduction The health crisis of COVID-19 (known as Coronavirus) striking the whole world, forced everybody to wear a mask.</description>
     </item>
     
     <item>

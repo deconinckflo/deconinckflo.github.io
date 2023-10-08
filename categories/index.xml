@@ -6,6 +6,25 @@
     <description>Recent content in Categories on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Deconinck Florian 2021</copyright><atom:link href="https://deconinckflo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Deconinck Florian 2021</copyright>
+    <lastBuildDate>Tue, 03 May 2022 20:25:36 +0600</lastBuildDate><atom:link href="https://deconinckflo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data visualisation</title>
+      <link>https://deconinckflo.github.io/categories/data-visualisation/</link>
+      <pubDate>Tue, 03 May 2022 20:25:36 +0600</pubDate>
+      
+      <guid>https://deconinckflo.github.io/categories/data-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IA</title>
+      <link>https://deconinckflo.github.io/categories/ia/</link>
+      <pubDate>Sat, 17 Oct 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://deconinckflo.github.io/categories/ia/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

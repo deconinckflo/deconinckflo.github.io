@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://deconinckflo.github.io/blog/</loc>
-    <lastmod>2022-05-03T20:25:36+06:00</lastmod>
+    <lastmod>2023-07-27T20:25:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,6 +15,56 @@
                 hreflang="en"
                 href="https://deconinckflo.github.io/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://deconinckflo.github.io/blog/tour-de-france-2023/</loc>
+    <lastmod>2023-07-27T20:25:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://deconinckflo.github.io/fr/blog/tour-de-france-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://deconinckflo.github.io/blog/tour-de-france-2023/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://deconinckflo.github.io/</loc>
+    <lastmod>2023-07-27T20:25:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://deconinckflo.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://deconinckflo.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://deconinckflo.github.io/categories/</loc>
+    <lastmod>2022-05-03T20:25:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://deconinckflo.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://deconinckflo.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://deconinckflo.github.io/categories/data-visualisation/</loc>
+    <lastmod>2022-05-03T20:25:36+06:00</lastmod>
   </url>
   
   <url>
@@ -29,21 +79,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://deconinckflo.github.io/blog/mvp-race-2022/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://deconinckflo.github.io/</loc>
-    <lastmod>2022-05-03T20:25:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://deconinckflo.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://deconinckflo.github.io/"
                 />
   </url>
   
@@ -108,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://deconinckflo.github.io/categories/ia/</loc>
+    <lastmod>2020-10-17T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deconinckflo.github.io/blog/ia-covid/</loc>
     <lastmod>2020-10-17T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -148,20 +188,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://deconinckflo.github.io/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://deconinckflo.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://deconinckflo.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://deconinckflo.github.io/categories/"
                 />
   </url>
   
